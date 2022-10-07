@@ -1,0 +1,2 @@
+# RNN
+mlp on mnist
